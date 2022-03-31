@@ -1,0 +1,14 @@
+h1{
+	color:red;
+}
+
+.bg_yellow{
+	background-color:yellow;
+}
+.border{
+	border: 3px solid red;
+}
+
+#big_font{
+	font-size: 50px;
+}
